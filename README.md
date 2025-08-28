@@ -3,4 +3,4 @@
 ### バッチ実行頻度
 
 - 10 日 `crawl.bat`
-- 28 日 `crawl.bat`
+- 月末 `crawl.bat`
